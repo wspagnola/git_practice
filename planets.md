@@ -1,4 +1,4 @@
-the number of planets are
+the number of planets are nine! Pluto will always be a planet in my heart!
 
 
 **Source**
