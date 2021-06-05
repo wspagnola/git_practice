@@ -1,4 +1,4 @@
-the number of planets are nine! Pluto will always be a planet in my heart!
+the no planets in the solar system.  It's just a simulation!
 
 
 **Source**
