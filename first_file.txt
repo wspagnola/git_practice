@@ -1,3 +1,5 @@
-This is my first file.
+This is the  first file I added to my project.
 
 I created this one last actually.
+
+Added a new line to practice git diff.
