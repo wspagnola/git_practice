@@ -1,5 +1,6 @@
 # Shopping List
  - apples
  - butter
- - milk
+ - apple juice
+ -  1 % milk
  - soda
