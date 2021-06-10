@@ -7,8 +7,8 @@
  -  1 % milk
  - 6 sodas
 
- - mangos
- - cookies
+ - green mangos
+ - chocolcate chip cookies
  
 ## Clothes
  - 6 pairs of socks
