@@ -1,6 +1,4 @@
-Shopping List
-
-5 yellow bananas
+6 yellow bananas
 red apple
 pear
 pumpkin
