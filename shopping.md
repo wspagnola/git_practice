@@ -1,5 +1,5 @@
 # Shopping List
- - apples
+ - red apples
  - butter
  - apple juice
  -  1 % milk
