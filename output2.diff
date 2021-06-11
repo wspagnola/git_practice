@@ -1,0 +1,10 @@
+diff --git a/shopping.txt b/shopping.txt
+index 6195c4d..b627299 100644
+--- a/shopping.txt
++++ b/shopping.txt
+@@ -1,4 +1,4 @@
+ yellow banana
+ red apple
+ Bosc pear
+-orange pumpkin
++pumpkin
