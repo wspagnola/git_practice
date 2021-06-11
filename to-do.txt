@@ -5,3 +5,5 @@ rent cabin
 rent car
 checkout bank account 
 weekend camping
+hike
+canoe
