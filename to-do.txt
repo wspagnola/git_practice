@@ -6,4 +6,5 @@ rent car
 checkout bank account 
 clean out closet
 weekend camping
-
+hike
+canoe
