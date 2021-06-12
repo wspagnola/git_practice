@@ -6,7 +6,12 @@ rent car
 checkout bank account 
 clean out closet
 weekend camping
+<<<<<<< HEAD
 hiking
 canoe
 hike
 
+=======
+hike
+canoe
+>>>>>>> 70a0151daa64c7aa96b176edf0e779479b995f97
