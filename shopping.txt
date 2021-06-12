@@ -4,7 +4,7 @@
 red apple
 pear
 pumpkin
-limes 
+7 green limes 
 salt 
 brown rice
 one bag of sugar
