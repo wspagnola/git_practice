@@ -7,3 +7,5 @@ I'll stage this change interactively.
 Add a line
 
 Added another line 
+
+Added a final line
