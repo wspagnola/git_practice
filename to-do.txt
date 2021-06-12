@@ -4,3 +4,4 @@ buy firewood
 rent cabin
 rent car
 checkout bank account 
+clean out close
