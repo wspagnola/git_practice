@@ -1,0 +1,24 @@
+From bb3167cd401a57f7023d8a3652a6fe65cbb3b317 Mon Sep 17 00:00:00 2001
+From: William Spagnola <whs278@nyu.edu>
+Date: Thu, 10 Jun 2021 17:16:46 -0400
+Subject: [PATCH 36/36] Changes to 5 bananas
+
+---
+ shopping.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/shopping.txt b/shopping.txt
+index 919d840..2d5470c 100644
+--- a/shopping.txt
++++ b/shopping.txt
+@@ -1,6 +1,6 @@
+ # Shopping List
+ 
+-6 yellow bananas
++5 yellow bananas
+ red apple
+ pear
+ pumpkin
+-- 
+2.31.1
+
